@@ -53,7 +53,7 @@ Functional and Regression test results and report for each project release.
 
 #### Release version 1.2
 * [Functional Test Results and Bug Report 1.2](/TEST-RESULTS/FUNCIONAL-TEST-RESULT-AND-BUG-REPORT-RELEASE-1.2.pdf) 
-* [Regression Test Results 1.1](/TEST-RESULTS/REGRESION-TEST-RESULT-RELEASE-1.2.pdf)
+* [Regression Test Results 1.2](/TEST-RESULTS/REGRESION-TEST-RESULT-RELEASE-1.2.pdf)
 
 
 ## AUTHOR
